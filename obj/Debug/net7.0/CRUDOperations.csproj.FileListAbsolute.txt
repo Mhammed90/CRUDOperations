@@ -1,0 +1,14 @@
+C:\Users\Mohamed\Desktop\ProjectsInC#\Educational_Managment_System\CRUDOperations\bin\Debug\net7.0\CRUDOperations.exe
+C:\Users\Mohamed\Desktop\ProjectsInC#\Educational_Managment_System\CRUDOperations\bin\Debug\net7.0\CRUDOperations.deps.json
+C:\Users\Mohamed\Desktop\ProjectsInC#\Educational_Managment_System\CRUDOperations\bin\Debug\net7.0\CRUDOperations.runtimeconfig.json
+C:\Users\Mohamed\Desktop\ProjectsInC#\Educational_Managment_System\CRUDOperations\bin\Debug\net7.0\CRUDOperations.dll
+C:\Users\Mohamed\Desktop\ProjectsInC#\Educational_Managment_System\CRUDOperations\bin\Debug\net7.0\CRUDOperations.pdb
+C:\Users\Mohamed\Desktop\ProjectsInC#\Educational_Managment_System\CRUDOperations\obj\Debug\net7.0\CRUDOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamed\Desktop\ProjectsInC#\Educational_Managment_System\CRUDOperations\obj\Debug\net7.0\CRUDOperations.AssemblyInfoInputs.cache
+C:\Users\Mohamed\Desktop\ProjectsInC#\Educational_Managment_System\CRUDOperations\obj\Debug\net7.0\CRUDOperations.AssemblyInfo.cs
+C:\Users\Mohamed\Desktop\ProjectsInC#\Educational_Managment_System\CRUDOperations\obj\Debug\net7.0\CRUDOperations.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed\Desktop\ProjectsInC#\Educational_Managment_System\CRUDOperations\obj\Debug\net7.0\CRUDOperations.dll
+C:\Users\Mohamed\Desktop\ProjectsInC#\Educational_Managment_System\CRUDOperations\obj\Debug\net7.0\refint\CRUDOperations.dll
+C:\Users\Mohamed\Desktop\ProjectsInC#\Educational_Managment_System\CRUDOperations\obj\Debug\net7.0\CRUDOperations.pdb
+C:\Users\Mohamed\Desktop\ProjectsInC#\Educational_Managment_System\CRUDOperations\obj\Debug\net7.0\CRUDOperations.genruntimeconfig.cache
+C:\Users\Mohamed\Desktop\ProjectsInC#\Educational_Managment_System\CRUDOperations\obj\Debug\net7.0\ref\CRUDOperations.dll
